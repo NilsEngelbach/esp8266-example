@@ -2,6 +2,7 @@
 
 ## How to use
 
+- Install Visual Studio Code
 - Install the PlatformIO Visual Studio Code Extension
 - Clone this repositroy
 - Import the project in PlatformIO Home
