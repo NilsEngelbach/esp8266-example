@@ -45,7 +45,7 @@ void loop() {
 // HomeKit setup and loop
 //==============================
 
-// access your HomeKit characteristics defined in my_accessory.c
+// access your HomeKit characteristics defined in my_homekit_accessory.c
 
 extern "C" homekit_server_config_t accessory_config;
 extern "C" homekit_characteristic_t cha_on;
